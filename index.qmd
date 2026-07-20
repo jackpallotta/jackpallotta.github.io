@@ -32,8 +32,3 @@ This summer I am participating in the [Carnegie Mellon Sports Analytics Camp (CM
 ### About me
 
 blah blah blah
-
-
-```{r}
-1 + 1
-```
