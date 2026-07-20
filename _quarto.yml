@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme:
-      light: [minty, custom.scss]
+      light: [cosmo, custom.scss]
       dark: solar
     toc: true
     page-layout: full
