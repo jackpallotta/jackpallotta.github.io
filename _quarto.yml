@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Jack Pallotta"
+  favicon: Images/Logo.png
+  navbar:
+    logo: Images/Logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      light: [minty, custom.scss]
+      dark: solar
+    toc: true
+    page-layout: full
+
+
+

@@ -1,0 +1,39 @@
+---
+title: "Jack Pallotta"
+image: Images/Headshot.png
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jack-pallotta/
+    - icon: github
+      text: Github
+      href: https://github.com/jackpallotta
+    - icon: envelope
+      text: Email
+      href: mailto:jackjpallotta@gmail.com
+---
+
+:::{#intro-heading}
+Hi, thank you for visiting my website!
+
+## Education
+
+**The University of Tampa** | Tampa, FL | B.S. with Honors in Finance | Aug 2023 - Dec 2026 *(expected)*
+
+## Experience
+
+This summer I am participating in the [Carnegie Mellon Sports Analytics Camp (CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html).
+
+:::
+
+### About me
+
+blah blah blah
+
+
+```{r}
+1 + 1
+```
